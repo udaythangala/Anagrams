@@ -15,9 +15,9 @@ class Anagrams{
 			{
 				System.out.println("Anagrams");
 			}
-			else
+			else{
 				System.out.println("NOt Anagrams");
-
+			}
 		}
 	}
-}		
+}
